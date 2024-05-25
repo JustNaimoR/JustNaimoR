@@ -6,7 +6,7 @@
 
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="20" height="20" />
-        𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌 𝖘𝖙𝖚𝖉𝖊𝖓𝖙 𝖋𝖗𝖔𝖒 𝕾𝖆𝖎𝖓𝖙-𝕻𝖊𝖙𝖊𝖗𝖘𝖇𝖚𝖗𝖌
+        ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝕤𝕥𝕦𝕕𝕖𝕟𝕥 𝕚𝕟 𝕊𝕥. ℙ𝕖𝕥𝕖𝕣𝕤𝕓𝕦𝕣𝕘
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="20" height="20" />
 </h3>
 

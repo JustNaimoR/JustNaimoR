@@ -4,4 +4,4 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CA6E0A&center=true&random=false&width=435&lines=Java+enjoyer+" alt="Typing SVG" /></a></h3>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Romario&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lerome2002&theme=dark)](https://github.com/KnlnKS/leetcode-stats)

@@ -3,6 +3,7 @@
 </a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" />
 
 <h3 align="center">
   𝕮𝖔𝖒𝖕𝖚𝖙𝖊𝖗 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌 𝖘𝖙𝖚𝖉𝖊𝖓𝖙 𝖋𝖗𝖔𝖒 𝕾𝖆𝖎𝖓𝖙-𝕻𝖊𝖙𝖊𝖗𝖘𝖇𝖚𝖗𝖌

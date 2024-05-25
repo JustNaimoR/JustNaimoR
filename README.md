@@ -1,6 +1,8 @@
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="30" height="30" />
-    ℍ𝕖𝕝𝕝𝕠 𝕗𝕣𝕠𝕞 ℝ𝕠𝕞𝕒𝕣𝕚𝕠
+    <p color="#fa8e47>
+        ℍ𝕖𝕝𝕝𝕠 𝕗𝕣𝕠𝕞 ℝ𝕠𝕞𝕒𝕣𝕚𝕠
+    </p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="30" height="30" />
 </h1>
 

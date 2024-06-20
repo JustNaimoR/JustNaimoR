@@ -9,5 +9,3 @@
         ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝕤𝕥𝕦𝕕𝕖𝕟𝕥 𝕚𝕟 𝕊𝕥. ℙ𝕖𝕥𝕖𝕣𝕤𝕓𝕦𝕣𝕘
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="20" height="20" />
 </h3>
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lerome2002)](https://github.com/KnlnKS/leetcode-stats)
